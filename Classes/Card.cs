@@ -32,7 +32,7 @@ namespace Durack.Classes
         public int Compare(Card enemy)
         {
             
-
+//ghg
         }
 
     }
